@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Nice to meet you!");
         System.out.println("How have you been lately?");
+
+        int first = 10;
     }
 }
